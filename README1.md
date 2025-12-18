@@ -5,6 +5,7 @@
 Запуск etcd производить на мастере.
 Способ установки выбрать самостоятельно.
 Результат:
+
 ![image](https://github.com/EremeevAN/kuber-3.2/blob/main/1.png)
 
 Ответы на вопросы:
@@ -59,4 +60,7 @@ https://netology.ru/profile/program/shkuber-17/lessons/508229/lesson_items/27529
 
 Вот как то так получается:
 
+
 ![image](https://github.com/EremeevAN/kuber-3.2/blob/main/11.png)
+
+И причина мне не ясна
