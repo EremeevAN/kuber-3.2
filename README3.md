@@ -5,3 +5,5 @@
 З.Ы. Ресурсов более чем достаточно
 ![image](https://github.com/EremeevAN/kuber-3.2/blob/main/12.png)
 
+
+c Kubespray я так разобраться не смог, времени нет
